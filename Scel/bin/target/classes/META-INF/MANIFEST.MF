@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: scel
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: matheus.higa
+Implementation-Vendor-Id: com.fatec
+Build-Jdk: 1.8.0_60
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/scel
+Created-By: Maven Integration for Eclipse
+
